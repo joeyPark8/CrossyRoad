@@ -1,0 +1,7 @@
+name: CrossyRoad
+version: 1.0
+main: crossyRoad.Main
+
+commands:
+  cross:
+    aliases: [cs]
